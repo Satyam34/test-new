@@ -11,7 +11,7 @@ public class Am{
         System.out.println("Enter Type : ");
         String type=sc.nextLine();
 
-        System.out.println("Enter Price : ");
+        System.out.println("Enter Price$ : ");
         int price=sc.nextInt();
 
         p1.setColor(color);
