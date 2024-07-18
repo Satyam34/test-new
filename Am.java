@@ -5,13 +5,13 @@ public class Am{
         Scanner sc=new Scanner(System.in);
         Pen p1 =new Pen();
 
-        System.out.println("Enter colout : ");
+        System.out.println("Enter color : ");
         String color=sc.nextLine();
 
         System.out.println("Enter Type : ");
         String type=sc.nextLine();
 
-        System.out.println("Enter Price : ");
+        System.out.println("Enter Price$ : ");
         int price=sc.nextInt();
 
         p1.setColor(color);
