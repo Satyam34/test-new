@@ -5,7 +5,7 @@ public class Am{
         Scanner sc=new Scanner(System.in);
         Pen p1 =new Pen();
 
-        System.out.println("Enter color : ");
+        System.out.println("Enter colout : ");
         String color=sc.nextLine();
 
         System.out.println("Enter Type : ");
